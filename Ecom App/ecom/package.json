@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "braintree-web-drop-in-react": "^1.2.1",
+    "query-string": "^8.1.0"
+  },
+  "scripts": {
+    "start": "npm start"
+  }
+}
